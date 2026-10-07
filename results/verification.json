@@ -1,0 +1,90 @@
+{
+  "date": "2026-10-07",
+  "unit_tests_passed": 6,
+  "numerical_reproducibility": {
+    "checked_csvs": 11,
+    "all_identical": true,
+    "checks": [
+      {
+        "file": "assignments.csv",
+        "identical": true
+      },
+      {
+        "file": "calibration.csv",
+        "identical": true
+      },
+      {
+        "file": "confidence_latest.csv",
+        "identical": true
+      },
+      {
+        "file": "edges_latest.csv",
+        "identical": true
+      },
+      {
+        "file": "metrics.csv",
+        "identical": true
+      },
+      {
+        "file": "profiles.csv",
+        "identical": true
+      },
+      {
+        "file": "random_baseline.csv",
+        "identical": true
+      },
+      {
+        "file": "robustness.csv",
+        "identical": true
+      },
+      {
+        "file": "sensitivity.csv",
+        "identical": true
+      },
+      {
+        "file": "temporal_stability.csv",
+        "identical": true
+      },
+      {
+        "file": "transitions.csv",
+        "identical": true
+      }
+    ]
+  },
+  "browser": {
+    "passed": true,
+    "initial": "territory_id 1 · группа G1 · 193 территорий · расходы 36 320 ₽ · поддержка группы: 92%",
+    "selection": "territory_id 2 · группа G1 · 195 территорий · расходы 17 925 ₽ · поддержка оценена только для декабря 2024",
+    "monthControl": true,
+    "idControl": true,
+    "missingIdRejected": true,
+    "mobileOverflow": false,
+    "mobilePlotBoxes": [
+      {
+        "id": "scatter",
+        "height": 430,
+        "top": 1554,
+        "bottom": 1984
+      },
+      {
+        "id": "profile",
+        "height": 430,
+        "top": 2009,
+        "bottom": 2439
+      },
+      {
+        "id": "trajectory",
+        "height": 480,
+        "top": 2784.71875,
+        "bottom": 3264.71875
+      },
+      {
+        "id": "sankey",
+        "height": 480,
+        "top": 3289.71875,
+        "bottom": 3769.71875
+      }
+    ],
+    "browserErrors": []
+  }
+}
