@@ -1,0 +1,14 @@
+{
+  "downloaded_on": "2026-10-07",
+  "source_url": "https://www.sberbank.com/common/img/uploaded/files/pdf/sberindex/hackathonlicence.zip",
+  "download_url": "http://www.sberbank.com/common/img/uploaded/files/pdf/sberindex/hackathonlicence.zip",
+  "archive_sha256": "a9f932ff4096a7df797d1547987937f34d3995ac445b4748177114488d12b010",
+  "licence": "CC BY-SA 4.0",
+  "provider": "Лаборатория СберИндекс, ПАО Сбербанк",
+  "files": {
+    "Данные_СберИндекс_лицензия.pdf": "030269e726f969250b911a1fcb72131a4b61c3952aad10c8470ce9c0736c472f",
+    "market_access.parquet": "434258afe322b7e6e6610b2552d129ae47094613de72dae3d13f6965a28d1dc1",
+    "consumption.parquet": "9833ddaaee7b2a182ed4cceeed16469031700ea87d508bd976150c6770ef8a61",
+    "connection.parquet": "20cbd5213d3ac1d0a867f097b485431811614b283d7366eb5cba9f65dc80493d"
+  }
+}
